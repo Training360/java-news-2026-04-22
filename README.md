@@ -1,5 +1,9 @@
 # Java 25 - 26 újdonságok, Spring újdonságok
 
+Merre tart a Java és a Spring 2026-ban?
+
+A Java továbbra is megállíthatatlanul fejlődik, 2026 márciusában kijött a Java 26. Idén már megtartották a két legfontosabb konferenciát, márciusban a JavaOne, áprilisban a Spring IO. Nézzük, merre tart a fejlődés, milyen újdonságokkal készültek a platform meghatározó szakemberei.
+
 ## Emlékeztető
 
 * 2025. 06. 26. - Java 23 - 24 újdonságok
